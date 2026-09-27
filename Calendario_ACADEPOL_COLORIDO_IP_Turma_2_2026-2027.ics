@@ -1,0 +1,2710 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//ACADEPOL IP Turma 2//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACADEPOL - IP Turma 2 2026/2027
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+UID:f235b838-03bf-4dbe-ae42-3436b20198fc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20260928T090000
+DTEND;TZID=America/Sao_Paulo:20260928T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: SEG
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3bda68-6444-4a8d-9c1e-91aaeb5e3a55@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20260928T133000
+DTEND;TZID=America/Sao_Paulo:20260928T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:0c91f5e6-68fc-4ffb-b880-81a77205da0a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20260929T090000
+DTEND;TZID=America/Sao_Paulo:20260929T120000
+SUMMARY:🔷 Exercício de Polícia Judiciária
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Polícia Judiciária\nProfessor(es): Márcia Heloísa Mendonça Ruiz\nDia da semana: TER
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e2c594-00ec-4a38-9a90-64d8b3ebfe5d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20260929T133000
+DTEND;TZID=America/Sao_Paulo:20260929T163000
+SUMMARY:🔷 Exercício de Polícia Judiciária
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Polícia Judiciária\nProfessor(es): Márcia Heloísa Mendonça Ruiz\nDia da semana: TER
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:57cb9340-8cea-4288-ae03-24104907a76d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20260929T165000
+DTEND;TZID=America/Sao_Paulo:20260929T195000
+SUMMARY:🔵 Noções de Exames em Documentos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Noções de Exames em Documentos\nProfessor(es): Luciana De Almeida Quintanilha\nDia da semana: TER
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:a6797387-782a-4c2b-9d4b-fdf055497b4e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20260930T090000
+DTEND;TZID=America/Sao_Paulo:20260930T120000
+SUMMARY:🔵 Noções de Exames em Documentos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Noções de Exames em Documentos\nProfessor(es): Luciana De Almeida Quintanilha\nDia da semana: QUA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:dce3eef9-61fb-4916-952d-28f84f142d5b@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20260930T133000
+DTEND;TZID=America/Sao_Paulo:20260930T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti\nLocal: SALA DE AULA\nDia da semana: QUA
+LOCATION:SALA DE AULA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:23df5c55-4795-4085-94da-289c8c7b4730@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261001T090000
+DTEND;TZID=America/Sao_Paulo:20261001T120000
+SUMMARY:🔷 Feminicídio e Investigação Policial sob a Perspectiva de Gênero
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feminicídio e Investigação Policial sob a Perspectiva de Gênero\nProfessor(es): Soraya Libardi Galesi / Beatriz Bravo\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c02f03-e02a-41f4-b113-80e1748741fe@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261001T133000
+DTEND;TZID=America/Sao_Paulo:20261001T163000
+SUMMARY:🔷 Telecomunicações Policiais
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Telecomunicações Policiais\nProfessor(es): Ricardo Antonio Porto Matazo\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:3b620528-f91b-4b36-a291-5a51fadc4971@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261001T165000
+DTEND;TZID=America/Sao_Paulo:20261001T195000
+SUMMARY:🔵 Socorros de Urgência
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Socorros de Urgência\nProfessor(es): Vladimir Alves Dos Reis\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:f1764765-71ff-41fc-8a4d-4b138234c708@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261002T090000
+DTEND;TZID=America/Sao_Paulo:20261002T120000
+SUMMARY:🔵 Noções de Exames em Documentos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Noções de Exames em Documentos\nProfessor(es): Luciana De Almeida Quintanilha\nDia da semana: SEX
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:97b2f351-c617-41e2-b350-aa30a30afa95@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261002T133000
+DTEND;TZID=America/Sao_Paulo:20261002T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti\nLocal: SALA DE AULA\nDia da semana: SEX
+LOCATION:SALA DE AULA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:8883bae8-4cf0-48fa-a525-fd90b8d88d19@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261003T090000
+DTEND;TZID=America/Sao_Paulo:20261003T120000
+SUMMARY:⚫ Não agendar aula
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Não agendar aula\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:5081044d-1ae6-4320-8a0e-bc69e2f2ce20@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261003T133000
+DTEND;TZID=America/Sao_Paulo:20261003T163000
+SUMMARY:⚫ Não agendar aula
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Não agendar aula\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:fee4c625-f3f6-4e43-b301-bbd2fe362c0b@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261005T090000
+DTEND;TZID=America/Sao_Paulo:20261005T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: SEG
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd66705-9e4d-43b1-b5d6-96233f762ae5@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261005T133000
+DTEND;TZID=America/Sao_Paulo:20261005T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:66f9a2a1-7a9e-4d26-b1cb-37e99785eceb@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261005T165000
+DTEND;TZID=America/Sao_Paulo:20261005T195000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: SEG
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:10551416-8c86-4b27-b9b5-4f878c245788@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261006T090000
+DTEND;TZID=America/Sao_Paulo:20261006T120000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:0e55e2a0-fa0b-4764-8133-ac1c0569684d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261006T133000
+DTEND;TZID=America/Sao_Paulo:20261006T163000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: ÁREA 1\nDia da semana: TER
+LOCATION:ÁREA 1
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:4b88880c-9b5d-47cf-8c9b-f55582fd73e6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261006T165000
+DTEND;TZID=America/Sao_Paulo:20261006T195000
+SUMMARY:🔷 Gestão de Atendimento ao Público e Compliance
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gestão de Atendimento ao Público e Compliance\nProfessor(es): Camila Fernandes Volpe\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:8b964e81-2fe0-4e1a-9713-0bc94c3406bc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261007T090000
+DTEND;TZID=America/Sao_Paulo:20261007T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: QUA
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4aadd7-bfea-4974-a165-533bb39d3d77@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261007T133000
+DTEND;TZID=America/Sao_Paulo:20261007T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti\nLocal: SALA DE AULA\nDia da semana: QUA
+LOCATION:SALA DE AULA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:06004513-8191-4108-8803-004850fd2904@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261008T090000
+DTEND;TZID=America/Sao_Paulo:20261008T120000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: ÁREA 1\nDia da semana: QUI
+LOCATION:ÁREA 1
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:67d44f1b-bbae-441d-9427-75d001e83fbc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261008T133000
+DTEND;TZID=America/Sao_Paulo:20261008T163000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: ÁREA 1\nDia da semana: QUI
+LOCATION:ÁREA 1
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:ba02b92f-d1bf-4f63-9e19-a1cbf275862d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261008T165000
+DTEND;TZID=America/Sao_Paulo:20261008T195000
+SUMMARY:🔷 Telecomunicações Policiais
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Telecomunicações Policiais\nProfessor(es): Ricardo Antonio Porto Matazo\nLocal: Sala de informática B5\nDia da semana: QUI
+LOCATION:Sala de informática B5
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:d4040754-01a4-48f5-a38f-a11a05463cd6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261009T090000
+DTEND;TZID=America/Sao_Paulo:20261009T120000
+SUMMARY:🔷 Telecomunicações Policiais
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Telecomunicações Policiais\nProfessor(es): Ricardo Antonio Porto Matazo\nDia da semana: SEX
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:2514db54-f680-4ca7-9ca6-dc6a684d807e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261009T133000
+DTEND;TZID=America/Sao_Paulo:20261009T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti\nLocal: SALA DE AULA\nDia da semana: SEX
+LOCATION:SALA DE AULA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:d01c2cbf-5054-4089-8005-940583024016@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261010T090000
+DTEND;TZID=America/Sao_Paulo:20261010T120000
+SUMMARY:🔷 Inteligência Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inteligência Policial\nProfessor(es): PAULA CRISTINA NUNES DE BARROS SCARANCE FERNANDES\nLocal: SALA DE AULA\nDia da semana: SAB
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:b07ec651-0e0f-4711-a3c8-e6bf430106e8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261010T133000
+DTEND;TZID=America/Sao_Paulo:20261010T163000
+SUMMARY:🔷 CVE - Relacionamento Interpessoal
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: CVE - Relacionamento Interpessoal\nProfessor(es): Heliana Aparecida Giacomassi De Oliveira\nDia da semana: SAB
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:dddcbffe-7f81-456d-b12c-76609de006d0@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261012T090000
+DTEND;TZID=America/Sao_Paulo:20261012T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEG
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ba63d6-7057-458e-b640-20efc41fd825@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261012T133000
+DTEND;TZID=America/Sao_Paulo:20261012T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEG
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:4b317776-e15a-41af-93b5-e6b286c10a75@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261013T090000
+DTEND;TZID=America/Sao_Paulo:20261013T120000
+SUMMARY:🔷 Entrevista Investigativa
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Entrevista Investigativa\nProfessor(es): Anderson Pires Giampaoli\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:c06ae84a-80ea-430c-8cba-4b1f49393d07@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261013T133000
+DTEND;TZID=America/Sao_Paulo:20261013T163000
+SUMMARY:🔷 Entrevista Investigativa
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Entrevista Investigativa\nProfessor(es): Anderson Pires Giampaoli\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:870e1435-7800-401d-8804-38192b186ade@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261013T165000
+DTEND;TZID=America/Sao_Paulo:20261013T195000
+SUMMARY:🔵 Socorros de Urgência
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Socorros de Urgência\nProfessor(es): Vladimir Alves Dos Reis\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:8419fde9-cf68-45e3-9ed4-e7664c10e352@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261014T090000
+DTEND;TZID=America/Sao_Paulo:20261014T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: QUA
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bd1a72-6074-413f-b30f-7346760aa74e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261014T133000
+DTEND;TZID=America/Sao_Paulo:20261014T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ÁREA 3\nDia da semana: QUA
+LOCATION:ÁREA 3
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:c42fb131-a94f-4a91-95a0-81e35db80096@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261015T090000
+DTEND;TZID=America/Sao_Paulo:20261015T120000
+SUMMARY:🔷 Reconhecimento de Pessoas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Reconhecimento de Pessoas\nProfessor(es): Anderson Pires Giampaoli\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:db30acfa-f844-433b-b9d5-60bc8d543d04@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261015T133000
+DTEND;TZID=America/Sao_Paulo:20261015T163000
+SUMMARY:🔷 Reconhecimento de Pessoas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Reconhecimento de Pessoas\nProfessor(es): Anderson Pires Giampaoli\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:1436c8f7-9396-4341-bab0-ad3bcf945e5c@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261015T165000
+DTEND;TZID=America/Sao_Paulo:20261015T195000
+SUMMARY:🔵 Medicina Legal
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Medicina Legal\nProfessor(es): Ana Elizabete Salvi Da Carvalheira\nDia da semana: QUI
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:a371585d-c657-4f76-a685-21e6b5e03653@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261016T090000
+DTEND;TZID=America/Sao_Paulo:20261016T120000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: SEX
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:20a8b91c-9e20-4b53-a93a-4e6eb19a8f66@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261016T133000
+DTEND;TZID=America/Sao_Paulo:20261016T163000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: ESTACIONAMENTO\nDia da semana: SEX
+LOCATION:ESTACIONAMENTO
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:393a3c8f-8dd4-4410-bf1b-9ed69e4975dc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261017T090000
+DTEND;TZID=America/Sao_Paulo:20261017T120000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ÁREA 3\nDia da semana: SAB
+LOCATION:ÁREA 3
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:990418c1-08ef-4801-b020-63f37c099a27@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261017T133000
+DTEND;TZID=America/Sao_Paulo:20261017T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ESTANDE DE TIROS\nDia da semana: SAB
+LOCATION:ESTANDE DE TIROS
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:180ebdc5-d325-42b6-b81b-17bda0dec838@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261019T090000
+DTEND;TZID=America/Sao_Paulo:20261019T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: SEG
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:46d7d7de-3dbe-40cf-a69a-285964a94dc7@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261019T133000
+DTEND;TZID=America/Sao_Paulo:20261019T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ÁREA 3\nDia da semana: SEG
+LOCATION:ÁREA 3
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:fa63acd0-d8a8-46f0-9718-5865379985f8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261019T165000
+DTEND;TZID=America/Sao_Paulo:20261019T195000
+SUMMARY:🔵 Noções de Identificação Veicular
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Noções de Identificação Veicular\nProfessor(es): Yuri Ojevan Presto\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:397576a6-15e0-4da0-8462-319ce298cdd9@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261020T090000
+DTEND;TZID=America/Sao_Paulo:20261020T120000
+SUMMARY:🔷 Entrevista Investigativa
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Entrevista Investigativa\nProfessor(es): Anderson Pires Giampaoli\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:93a8411d-b5e5-4de0-a465-80d046b564f0@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261020T165000
+DTEND;TZID=America/Sao_Paulo:20261020T195000
+SUMMARY:🔵 Socorros de Urgência
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Socorros de Urgência\nProfessor(es): Vladimir Alves Dos Reis\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:684c805f-0d5a-4a8a-add8-77b68b058288@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261021T090000
+DTEND;TZID=America/Sao_Paulo:20261021T120000
+SUMMARY:🔷 Teoria Geral da Investigação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teoria Geral da Investigação\nProfessor(es): Rodrigo Borges Petrilli\nDia da semana: QUA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:54e23a8a-30b8-4be1-a75e-bac1ad35da9a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261021T133000
+DTEND;TZID=America/Sao_Paulo:20261021T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ESTANDE DE TIROS\nDia da semana: QUA
+LOCATION:ESTANDE DE TIROS
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:4161cf63-7bb9-403e-b578-c394d07046e8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261022T090000
+DTEND;TZID=America/Sao_Paulo:20261022T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nDia da semana: QUI
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:7d71e62d-73ff-470b-a707-89fe4e48c0fc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261022T165000
+DTEND;TZID=America/Sao_Paulo:20261022T195000
+SUMMARY:🔵 Medicina Legal
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Medicina Legal\nProfessor(es): Ana Elizabete Salvi Da Carvalheira\nDia da semana: QUI
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:735b0f0c-f83f-4337-8122-6cf21f874f2e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261023T090000
+DTEND;TZID=America/Sao_Paulo:20261023T120000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: SEX
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:0b7c1014-2db9-4c22-9858-b11dbb0daa30@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261023T133000
+DTEND;TZID=America/Sao_Paulo:20261023T163000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: SEX
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:7a29d513-6f2e-4032-8ba0-869a04028ae8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261024T133000
+DTEND;TZID=America/Sao_Paulo:20261024T163000
+SUMMARY:🔵 Noções de Identificação Veicular
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Noções de Identificação Veicular\nProfessor(es): Yuri Ojevan Presto\nLocal: SALA DE AULA\nDia da semana: SAB
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:b639000e-fc8a-477a-84e2-0b9fa8ecc000@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261026T090000
+DTEND;TZID=America/Sao_Paulo:20261026T120000
+SUMMARY:🔵 Noções de Identificação Veicular
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Noções de Identificação Veicular\nProfessor(es): Yuri Ojevan Presto\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5be4a0-6526-4844-a193-f91ea6f92553@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261026T133000
+DTEND;TZID=America/Sao_Paulo:20261026T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ESTANDE DE TIROS\nDia da semana: SEG
+LOCATION:ESTANDE DE TIROS
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:2e046578-3986-4a17-8e02-762469667289@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261027T090000
+DTEND;TZID=America/Sao_Paulo:20261027T120000
+SUMMARY:🔷 Teoria Geral da Investigação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teoria Geral da Investigação\nProfessor(es): Rodrigo Borges Petrilli\nDia da semana: TER
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:c656fa3d-7284-43d6-a370-9c1fb7756971@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261027T133000
+DTEND;TZID=America/Sao_Paulo:20261027T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: TER
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:10798265-1a0d-4586-b942-9257932ce258@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261027T165000
+DTEND;TZID=America/Sao_Paulo:20261027T195000
+SUMMARY:🔵 Medicina Legal
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Medicina Legal\nProfessor(es): Ana Elizabete Salvi Da Carvalheira\nDia da semana: TER
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:3524fd9c-d818-488c-8f27-a2c2a4aaf193@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261028T090000
+DTEND;TZID=America/Sao_Paulo:20261028T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUA
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:c42fca37-fcd8-42b2-bf44-34ba30f3d4d4@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261028T133000
+DTEND;TZID=America/Sao_Paulo:20261028T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUA
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:a568eabe-000a-4ef2-ba88-fdd5f9c0a025@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261029T090000
+DTEND;TZID=America/Sao_Paulo:20261029T120000
+SUMMARY:🔷 Teoria Geral da Investigação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teoria Geral da Investigação\nProfessor(es): Rodrigo Borges Petrilli\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:0c83baad-019c-446e-9871-d764740a6267@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261029T133000
+DTEND;TZID=America/Sao_Paulo:20261029T163000
+SUMMARY:🔷 Inteligência Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inteligência Policial\nProfessor(es): PAULA CRISTINA NUNES DE BARROS SCARANCE FERNANDES\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:81a62e4e-a59a-4b0b-9d9d-2708f2fee29a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261029T165000
+DTEND;TZID=America/Sao_Paulo:20261029T195000
+SUMMARY:🔷 Exercício de Polícia Judiciária
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Polícia Judiciária\nProfessor(es): MARCIA HELOISA MENDONÇA RUIZ\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:0db29668-1847-4fe6-ac10-d178d6ce2b91@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261030T090000
+DTEND;TZID=America/Sao_Paulo:20261030T120000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: MOGI - SAÍDA 7h\nDia da semana: SEX
+LOCATION:MOGI - SAÍDA 7h
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:d282c9a1-7cba-4185-a97d-9189cc2f5096@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261030T133000
+DTEND;TZID=America/Sao_Paulo:20261030T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: MOGI - SAÍDA 7h\nDia da semana: SEX
+LOCATION:MOGI - SAÍDA 7h
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:9a09d5e5-efed-4b59-a16a-e06e1463e115@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261031T090000
+DTEND;TZID=America/Sao_Paulo:20261031T120000
+SUMMARY:⚫ Não agendar aula
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Não agendar aula\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:d6d28958-7e4d-42ec-8b29-f7137972a50a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261031T133000
+DTEND;TZID=America/Sao_Paulo:20261031T163000
+SUMMARY:⚫ Não agendar aula
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Não agendar aula\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:b6794685-d07d-47b9-94da-6c715bb2c5ef@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261102T090000
+DTEND;TZID=America/Sao_Paulo:20261102T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEG
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:795067f7-a811-4ebd-ba1b-70c47eb6a88b@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261102T133000
+DTEND;TZID=America/Sao_Paulo:20261102T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEG
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:06547efc-4b0f-421d-b37a-896b2eeffa85@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261103T090000
+DTEND;TZID=America/Sao_Paulo:20261103T120000
+SUMMARY:🔷 Aprendizagem Participativa
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Aprendizagem Participativa\nProfessor(es): Dra. Leolar e Equipe de Aprendizagem Participativa\nDia da semana: TER
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c515b0-009a-4417-941a-aace526b1dd6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261103T133000
+DTEND;TZID=America/Sao_Paulo:20261103T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ÁREA 3\nDia da semana: TER
+LOCATION:ÁREA 3
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:d036cdf7-50bc-466b-a958-0f456eac97d8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261103T165000
+DTEND;TZID=America/Sao_Paulo:20261103T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ESTANDE DE TIROS\nDia da semana: TER
+LOCATION:ESTANDE DE TIROS
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:6e85a4d5-61bd-4886-b3c1-d54e29e9e6da@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261104T090000
+DTEND;TZID=America/Sao_Paulo:20261104T120000
+SUMMARY:🔷 Aprendizagem Participativa
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Aprendizagem Participativa\nProfessor(es): Dra. Leolar e Equipe de Aprendizagem Participativa\nDia da semana: QUA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:33bfd9be-edbe-461d-96de-084d26c5cb93@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261104T133000
+DTEND;TZID=America/Sao_Paulo:20261104T163000
+SUMMARY:🔷 Aprendizagem Participativa
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Aprendizagem Participativa\nProfessor(es): Dra. Leolar e Equipe de Aprendizagem Participativa\nDia da semana: QUA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:39be3323-6afe-4f41-a36b-1ec157e407df@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261105T090000
+DTEND;TZID=America/Sao_Paulo:20261105T120000
+SUMMARY:🔵 Papiloscopia
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Papiloscopia\nProfessor(es): Pedro Henrique Souza Maia\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e7770a-0540-416c-aee8-50f246ed16e8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261105T133000
+DTEND;TZID=America/Sao_Paulo:20261105T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B3\nDia da semana: QUI
+LOCATION:Sala de informática B3
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b4870e-e811-4599-a0f8-e6c2c15504b3@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261105T165000
+DTEND;TZID=America/Sao_Paulo:20261105T195000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B3\nDia da semana: QUI
+LOCATION:Sala de informática B3
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:27127164-4f2a-463a-8933-ea465b80b8f6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261106T090000
+DTEND;TZID=America/Sao_Paulo:20261106T120000
+SUMMARY:🔷 Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gerenciamento de Crises\nProfessor(es): Antônio Carlos Heib\nDia da semana: SEX
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:487b37f8-a187-4a24-9dde-20accb90dd22@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261106T133000
+DTEND;TZID=America/Sao_Paulo:20261106T163000
+SUMMARY:🔷 História da Polícia Civil e Organização Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: História da Polícia Civil e Organização Policial\nProfessor(es): Ana Paula Batista Ramalho Soares\nLocal: SALA DE AULA\nDia da semana: SEX
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:d596b725-e6ee-4317-852c-6d40d68ac477@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261107T090000
+DTEND;TZID=America/Sao_Paulo:20261107T120000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ESTANDE DE TIROS\nDia da semana: SAB
+LOCATION:ESTANDE DE TIROS
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:86b4ed06-17e8-421c-80ed-87b214dce8ac@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261107T133000
+DTEND;TZID=America/Sao_Paulo:20261107T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ESTANDE DE TIROS\nDia da semana: SAB
+LOCATION:ESTANDE DE TIROS
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:5d354de3-5d00-4961-9c41-a1ed8c26bd86@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261109T090000
+DTEND;TZID=America/Sao_Paulo:20261109T120000
+SUMMARY:🔷 Exercício de Polícia Judiciária
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Polícia Judiciária\nProfessor(es): Márcia Heloísa Mendonça Ruiz\nDia da semana: SEG
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:9debaaa9-3517-49a6-a8fc-a9e2d0bc2694@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261109T133000
+DTEND;TZID=America/Sao_Paulo:20261109T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B3\nDia da semana: SEG
+LOCATION:Sala de informática B3
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:a28cb979-66ef-43bd-8f15-ea913c7b3f9e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261109T165000
+DTEND;TZID=America/Sao_Paulo:20261109T195000
+SUMMARY:🔷 Gestão de Atendimento ao Público e Compliance
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gestão de Atendimento ao Público e Compliance\nProfessor(es): Camila Fernandes Volpe\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c1ef4d-ab3c-442f-a02d-ff5e1374fdcc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261110T090000
+DTEND;TZID=America/Sao_Paulo:20261110T120000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:f1435aaa-852e-41fe-b533-11a215638cff@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261110T133000
+DTEND;TZID=America/Sao_Paulo:20261110T163000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:b2875297-5581-4128-84e0-7d53bfb11ad0@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261111T090000
+DTEND;TZID=America/Sao_Paulo:20261111T120000
+SUMMARY:🔷 Inquérito Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inquérito Policial\nProfessor(es): Fernando David De Melo Gonçalves\nLocal: SALA DE AULA\nDia da semana: QUA
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:f80e3e4b-c39d-48db-91d4-02825dbf9935@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261111T133000
+DTEND;TZID=America/Sao_Paulo:20261111T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ÁREA 3\nDia da semana: QUA
+LOCATION:ÁREA 3
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:423f7420-1749-4a2b-8a0c-ac9bec70ad51@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261112T090000
+DTEND;TZID=America/Sao_Paulo:20261112T120000
+SUMMARY:🔵 Papiloscopia
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Papiloscopia\nProfessor(es): Pedro Henrique Souza Maia\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7a7553-e10d-475e-8ca5-e2a4ba04a8c3@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261112T133000
+DTEND;TZID=America/Sao_Paulo:20261112T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ESTANDE DE TIROS\nDia da semana: QUI
+LOCATION:ESTANDE DE TIROS
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:f457164e-4dc7-4187-9655-e2e7cea338b7@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261112T165000
+DTEND;TZID=America/Sao_Paulo:20261112T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ESTANDE DE TIROS\nDia da semana: QUI
+LOCATION:ESTANDE DE TIROS
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:48383074-8ca6-4c82-b20d-18206f1d4dd3@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261113T090000
+DTEND;TZID=America/Sao_Paulo:20261113T120000
+SUMMARY:🔷 Inteligência Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inteligência Policial\nProfessor(es): PAULA CRISTINA NUNES DE BARROS SCARANCE FERNANDES\nLocal: SALA DE AULA\nDia da semana: SEX
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:d2626c7a-9580-404c-b24c-174962541cee@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261113T133000
+DTEND;TZID=America/Sao_Paulo:20261113T163000
+SUMMARY:🔷 História da Polícia Civil e Organização Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: História da Polícia Civil e Organização Policial\nProfessor(es): Ana Paula Batista Ramalho Soares\nLocal: SALA DE AULA\nDia da semana: SEX
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:98ede3cf-6ecc-48ff-9ab7-9610d5abb296@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261114T090000
+DTEND;TZID=America/Sao_Paulo:20261114T120000
+SUMMARY:🔷 Exercício de Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Gerenciamento de Crises\nProfessor(es): Dra. Aurora e Equipe de Gerenciamento de Crises\nDia da semana: SAB
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:54d57cce-0c3d-4341-ba09-05f763d927fc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261114T133000
+DTEND;TZID=America/Sao_Paulo:20261114T163000
+SUMMARY:🔷 Exercício de Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Gerenciamento de Crises\nProfessor(es): Dra. Aurora e Equipe de Gerenciamento de Crises\nDia da semana: SAB
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:717bb7c5-64ac-4e23-a0aa-c2743b45856e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261116T090000
+DTEND;TZID=America/Sao_Paulo:20261116T120000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: MOGI - SAÍDA 7h\nDia da semana: SEG
+LOCATION:MOGI - SAÍDA 7h
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ae9ff2-5d63-4e56-8be6-bb22836db88a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261116T133000
+DTEND;TZID=America/Sao_Paulo:20261116T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: MOGI - SAÍDA 7h\nDia da semana: SEG
+LOCATION:MOGI - SAÍDA 7h
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:c98548c7-125e-41c0-bf82-862511f950d6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261117T090000
+DTEND;TZID=America/Sao_Paulo:20261117T120000
+SUMMARY:🔷 Inquérito Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inquérito Policial\nProfessor(es): Fernando David De Melo Gonçalves\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:002f03c7-9f58-45f8-9d5b-38bb6a59c151@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261117T133000
+DTEND;TZID=America/Sao_Paulo:20261117T163000
+SUMMARY:🔷 Gestão de Atendimento ao Público e Compliance
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gestão de Atendimento ao Público e Compliance\nProfessor(es): Camila Fernandes Volpe\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:5358344f-4a88-4134-9b92-8e6abfc9bb64@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261117T165000
+DTEND;TZID=America/Sao_Paulo:20261117T195000
+SUMMARY:🔷 História da Polícia Civil e Organização Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: História da Polícia Civil e Organização Policial\nProfessor(es): Ana Paula Batista Ramalho Soares\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:ad33fe7d-b5a5-456f-bafc-90a3e5499a7e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261118T090000
+DTEND;TZID=America/Sao_Paulo:20261118T120000
+SUMMARY:🔷 Teoria Geral da Investigação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teoria Geral da Investigação\nProfessor(es): Rodrigo Borges Petrilli\nDia da semana: QUA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfcaebd-c1af-4497-9c2c-959719a10ac6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261118T133000
+DTEND;TZID=America/Sao_Paulo:20261118T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B3\nDia da semana: QUA
+LOCATION:Sala de informática B3
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:6933feae-0a84-40d5-aa1e-3324771d40e3@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261119T090000
+DTEND;TZID=America/Sao_Paulo:20261119T120000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: MOGI - SAÍDA 7h\nDia da semana: QUI
+LOCATION:MOGI - SAÍDA 7h
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c99077-f57e-4029-90e2-bbb122b2d10d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261119T133000
+DTEND;TZID=America/Sao_Paulo:20261119T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: MOGI - SAÍDA 7h\nDia da semana: QUI
+LOCATION:MOGI - SAÍDA 7h
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:58a93eee-40ff-494a-ac78-fbe62799543a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261120T090000
+DTEND;TZID=America/Sao_Paulo:20261120T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEX
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:472185f7-5433-4c2e-8412-f72ffcee61fe@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261120T133000
+DTEND;TZID=America/Sao_Paulo:20261120T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEX
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b419e0-7c3b-40d0-ba3f-7a08084e20e3@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261121T090000
+DTEND;TZID=America/Sao_Paulo:20261121T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:2e866e32-0967-4d53-bc58-786155a55093@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261121T133000
+DTEND;TZID=America/Sao_Paulo:20261121T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:423c10a3-2fe1-4670-bb47-39c49e3a4e6c@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261123T090000
+DTEND;TZID=America/Sao_Paulo:20261123T120000
+SUMMARY:🔷 Teoria Geral da Investigação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teoria Geral da Investigação\nProfessor(es): Rodrigo Borges Petrilli\nDia da semana: SEG
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:73ddd9e7-63d0-40b8-86f1-2f604a9d1bdc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261123T133000
+DTEND;TZID=America/Sao_Paulo:20261123T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B3\nDia da semana: SEG
+LOCATION:Sala de informática B3
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0e4b13-9cc0-4bf0-8423-3b3dda7bfdca@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261123T165000
+DTEND;TZID=America/Sao_Paulo:20261123T195000
+SUMMARY:🔷 CVE - Relacionamento Interpessoal
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: CVE - Relacionamento Interpessoal\nProfessor(es): Heliana Aparecida Giacomassi De Oliveira\nDia da semana: SEG
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca2be22-7022-4d64-ba1c-1f5e2a4e2ec1@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261124T090000
+DTEND;TZID=America/Sao_Paulo:20261124T120000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:b53fcd2e-f2c7-40ee-8f3a-c669830af568@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261124T133000
+DTEND;TZID=America/Sao_Paulo:20261124T163000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:59343fbc-48e0-4204-b61c-ff579ce94f42@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261125T090000
+DTEND;TZID=America/Sao_Paulo:20261125T120000
+SUMMARY:🔷 Exercício de Polícia Judiciária
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Polícia Judiciária\nProfessor(es): Márcia Heloísa Mendonça Ruiz\nDia da semana: QUA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:e9cb3c81-6958-4c02-a6b5-f0fa6c7fe084@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261125T133000
+DTEND;TZID=America/Sao_Paulo:20261125T163000
+SUMMARY:🔷 Exercício de Polícia Judiciária
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Polícia Judiciária\nProfessor(es): Márcia Heloísa Mendonça Ruiz\nDia da semana: QUA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:11f08103-8f4a-4c26-a168-36080557ebba@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261126T090000
+DTEND;TZID=America/Sao_Paulo:20261126T120000
+SUMMARY:🔷 Direito Administrativo Disciplinar
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direito Administrativo Disciplinar\nProfessor(es): Rosemeire Monteiro De Francisco Ibañez\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:9e185411-2fbe-45c3-a668-898b14620635@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261126T133000
+DTEND;TZID=America/Sao_Paulo:20261126T163000
+SUMMARY:🔷 Direito Administrativo Disciplinar
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direito Administrativo Disciplinar\nProfessor(es): Rosemeire Monteiro De Francisco Ibañez\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:c40c8977-9bb6-4817-8c80-0507ae7a4eb3@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261126T165000
+DTEND;TZID=America/Sao_Paulo:20261126T195000
+SUMMARY:🔷 História da Polícia Civil e Organização Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: História da Polícia Civil e Organização Policial\nProfessor(es): Ana Paula Batista Ramalho Soares\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:6c18498e-d1b1-4a13-a850-13a15c5c62c6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261127T090000
+DTEND;TZID=America/Sao_Paulo:20261127T120000
+SUMMARY:🔷 Teoria Geral da Investigação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teoria Geral da Investigação\nProfessor(es): Rodrigo Borges Petrilli\nDia da semana: SEX
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:699ddf15-b832-46db-88de-41276ed0cf3e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261127T133000
+DTEND;TZID=America/Sao_Paulo:20261127T163000
+SUMMARY:🔷 Inteligência Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inteligência Policial\nProfessor(es): PAULA CRISTINA NUNES DE BARROS SCARANCE FERNANDES\nLocal: SALA DE AULA\nDia da semana: SEX
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:4826ea82-71d8-4f17-bf56-ab1d17a4272b@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261128T090000
+DTEND;TZID=America/Sao_Paulo:20261128T120000
+SUMMARY:🔵 Papiloscopia
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Papiloscopia\nProfessor(es): Pedro Henrique Souza Maia\nLocal: SALA DE AULA\nDia da semana: SAB
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:896c1892-c512-4d68-ac9e-fba7e0db2f04@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261128T133000
+DTEND;TZID=America/Sao_Paulo:20261128T163000
+SUMMARY:🔷 Inteligência Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inteligência Policial\nProfessor(es): PAULA CRISTINA NUNES DE BARROS SCARANCE FERNANDES\nLocal: SALA DE AULA\nDia da semana: SAB
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:a5f9b2d2-3d00-4f14-b553-bd1298eedac7@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261130T090000
+DTEND;TZID=America/Sao_Paulo:20261130T120000
+SUMMARY:🔷 Feminicídio e Investigação Policial sob a Perspectiva de Gênero
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feminicídio e Investigação Policial sob a Perspectiva de Gênero\nProfessor(es): Rodrigo Borges Petrilli\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:993d19e9-8868-450d-984f-4347d97d3b41@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261130T133000
+DTEND;TZID=America/Sao_Paulo:20261130T163000
+SUMMARY:🔵 Socorros de Urgência
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Socorros de Urgência\nProfessor(es): Vladimir Alves Dos Reis\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1aa4bb-58eb-4985-bf45-e4f500f63b1c@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261201T090000
+DTEND;TZID=America/Sao_Paulo:20261201T120000
+SUMMARY:🔷 Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gerenciamento de Crises\nProfessor(es): Antônio Carlos Heib\nDia da semana: TER
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:e35e293d-ed5c-4712-8ace-2157d6b022e7@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261201T133000
+DTEND;TZID=America/Sao_Paulo:20261201T163000
+SUMMARY:🔷 CVE - Relacionamento Interpessoal
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: CVE - Relacionamento Interpessoal\nProfessor(es): Heliana Aparecida Giacomassi De Oliveira\nDia da semana: TER
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:ab908616-be40-4ba0-9697-e1b58ae951c6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261201T165000
+DTEND;TZID=America/Sao_Paulo:20261201T195000
+SUMMARY:🔷 Direito Administrativo Disciplinar
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direito Administrativo Disciplinar\nProfessor(es): Rosemeire Monteiro De Francisco Ibañez\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:92dc4cf8-e23c-4ebd-aab3-b30e6e01e15d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261202T090000
+DTEND;TZID=America/Sao_Paulo:20261202T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: QUA
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e4d260-1c99-4c5a-95fc-fe68e1972465@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261202T133000
+DTEND;TZID=America/Sao_Paulo:20261202T163000
+SUMMARY:🔷 Direito Administrativo Disciplinar
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direito Administrativo Disciplinar\nProfessor(es): Rosemeire Monteiro De Francisco Ibañez\nLocal: SALA DE AULA\nDia da semana: QUA
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:22f46582-cbdd-4bcc-8a00-6df76549b470@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261203T090000
+DTEND;TZID=America/Sao_Paulo:20261203T120000
+SUMMARY:🔷 Direito Administrativo Disciplinar
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direito Administrativo Disciplinar\nProfessor(es): Rosemeire Monteiro De Francisco Ibañez\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc188cf-8e37-479a-bcd2-ec0634db427e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261203T133000
+DTEND;TZID=America/Sao_Paulo:20261203T163000
+SUMMARY:🔷 CVE - Direção Defensiva
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: CVE - Direção Defensiva\nProfessor(es): João Baptista Palma Beolchi\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:f246876b-d051-494e-8890-b40fc32c44c0@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261203T165000
+DTEND;TZID=America/Sao_Paulo:20261203T195000
+SUMMARY:🔷 CVE - Direção Defensiva
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: CVE - Direção Defensiva\nProfessor(es): João Baptista Palma Beolchi\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:19856b87-0f6a-4c6f-b390-0c269c58137c@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261204T090000
+DTEND;TZID=America/Sao_Paulo:20261204T120000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: SEX
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:823fe36e-1b13-45c3-9a09-8d56714a5f64@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261204T133000
+DTEND;TZID=America/Sao_Paulo:20261204T163000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: SEX
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:4301a0e0-d3b1-4abf-955a-fa87da123691@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261205T090000
+DTEND;TZID=America/Sao_Paulo:20261205T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: SAB
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8cfd6c-d601-4f5e-877e-db9063ce804a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261205T133000
+DTEND;TZID=America/Sao_Paulo:20261205T163000
+SUMMARY:🔷 Exercício de Inteligência Policial*
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Inteligência Policial*\nProfessor(es): PAULA CRISTINA NUNES DE BARROS SCARANCE FERNANDES\nLocal: SALA DE AULA\nDia da semana: SAB
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:dc26efc5-691c-4485-86a7-6fd282618953@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261207T090000
+DTEND;TZID=America/Sao_Paulo:20261207T120000
+SUMMARY:🔷 Inquérito Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inquérito Policial\nProfessor(es): Fernando David De Melo Gonçalves\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:97d1c24e-bb95-40fa-9244-8771443ff9e6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261207T133000
+DTEND;TZID=America/Sao_Paulo:20261207T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: SEG
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:4de82557-f679-4ae3-932c-c92147b0764e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261207T165000
+DTEND;TZID=America/Sao_Paulo:20261207T195000
+SUMMARY:🔷 CVE - Relacionamento Interpessoal
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: CVE - Relacionamento Interpessoal\nProfessor(es): Heliana Aparecida Giacomassi De Oliveira\nDia da semana: SEG
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:504d76f9-e3d3-4da5-bfd0-23fae3d8ae5c@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261208T090000
+DTEND;TZID=America/Sao_Paulo:20261208T120000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:66b82aea-0a8d-4037-bc32-97a10563a40d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261208T133000
+DTEND;TZID=America/Sao_Paulo:20261208T163000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:5ef6d578-ed8f-4d91-97ab-f18152e0d323@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261209T090000
+DTEND;TZID=America/Sao_Paulo:20261209T120000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: QUA
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:16364cb5-07ca-42b3-a10e-452db041593d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261209T133000
+DTEND;TZID=America/Sao_Paulo:20261209T163000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: QUA
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf36519-52d2-491c-bde6-9f08a6eefd64@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261210T090000
+DTEND;TZID=America/Sao_Paulo:20261210T120000
+SUMMARY:🔷 Inquérito Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inquérito Policial\nProfessor(es): Fernando David De Melo Gonçalves\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:c49396c3-48bc-4125-9410-a6d80f5c4289@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261210T133000
+DTEND;TZID=America/Sao_Paulo:20261210T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ÁREA 3\nDia da semana: QUI
+LOCATION:ÁREA 3
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:427d8eb9-ff44-4cf8-a250-d0d742d8177d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261210T165000
+DTEND;TZID=America/Sao_Paulo:20261210T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: ÁREA 3\nDia da semana: QUI
+LOCATION:ÁREA 3
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:520a9aca-95b8-4beb-8467-9cc52bcc8632@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261211T090000
+DTEND;TZID=America/Sao_Paulo:20261211T120000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: SEX
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4563ea-7352-42e2-a837-ac8aa2f07f08@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261211T133000
+DTEND;TZID=America/Sao_Paulo:20261211T163000
+SUMMARY:🟢 Conduta Policial e Técnicas de Abordagem
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conduta Policial e Técnicas de Abordagem\nProfessor(es): Ricardo Fleck / Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: SEX
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:86a0b1ae-8c63-4c7a-bd02-27dfc0f8010d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261212T090000
+DTEND;TZID=America/Sao_Paulo:20261212T120000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: MOGI - SAÍDA 7h\nDia da semana: SAB
+LOCATION:MOGI - SAÍDA 7h
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef13e9d-a9bb-4332-91d5-2dbbd33301c4@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261212T133000
+DTEND;TZID=America/Sao_Paulo:20261212T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti / Fernando Estefan\nLocal: MOGI - SAÍDA 7h\nDia da semana: SAB
+LOCATION:MOGI - SAÍDA 7h
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:9c3f1422-4938-45ce-a71b-f022596d4449@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261214T090000
+DTEND;TZID=America/Sao_Paulo:20261214T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: SEG
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:621ec3b0-13f6-4962-ab52-b9490af0aafd@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261214T133000
+DTEND;TZID=America/Sao_Paulo:20261214T163000
+SUMMARY:🔷 Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gerenciamento de Crises\nProfessor(es): Antônio Carlos Heib\nDia da semana: SEG
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:27ff4782-d595-4e6b-a4ff-652cd84d4914@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261215T090000
+DTEND;TZID=America/Sao_Paulo:20261215T120000
+SUMMARY:🔷 Inquérito Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inquérito Policial\nProfessor(es): Fernando David De Melo Gonçalves\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:debba614-0fc2-430b-99aa-aa662b2eb9ee@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261215T133000
+DTEND;TZID=America/Sao_Paulo:20261215T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: ALA M\nDia da semana: TER
+LOCATION:ALA M
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:6e48f606-b2ef-4fce-8247-4cb52b485a26@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261215T165000
+DTEND;TZID=America/Sao_Paulo:20261215T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: ESTACIONAMENTO\nDia da semana: TER
+LOCATION:ESTACIONAMENTO
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:58ff7863-ff04-4d26-abef-720fa7c088bd@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261216T090000
+DTEND;TZID=America/Sao_Paulo:20261216T120000
+SUMMARY:🔵 Conceitos Gerais de Criminalística
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conceitos Gerais de Criminalística\nProfessor(es): Ana Carolina Ribeiro Salles\nLocal: SALA DE AULA\nDia da semana: QUA
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:f55f4763-2046-4238-b6fb-885529038b95@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261216T133000
+DTEND;TZID=America/Sao_Paulo:20261216T163000
+SUMMARY:🔵 Conceitos Gerais de Criminalística
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conceitos Gerais de Criminalística\nProfessor(es): Ana Carolina Ribeiro Salles\nLocal: SALA DE AULA\nDia da semana: QUA
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:96a754b7-a50c-4c7c-a8eb-980130b08e26@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261217T090000
+DTEND;TZID=America/Sao_Paulo:20261217T120000
+SUMMARY:🔷 Inquérito Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inquérito Policial\nProfessor(es): Fernando David De Melo Gonçalves\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:e78b46f0-0394-41ac-903f-28a465f92a1e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261217T133000
+DTEND;TZID=America/Sao_Paulo:20261217T163000
+SUMMARY:🔵 Conceitos Gerais de Criminalística
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Conceitos Gerais de Criminalística\nProfessor(es): Ana Carolina Ribeiro Salles\nLocal: SALA DE AULA\nDia da semana: QUI
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:d22c8e9b-7193-4f93-b2b0-4b9a35d369b8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261217T165000
+DTEND;TZID=America/Sao_Paulo:20261217T195000
+SUMMARY:🔷 Direitos Humanos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direitos Humanos\nProfessor(es): Eduardo Augusto Paglione\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:1b1cc839-1209-4203-bf56-f60ffbd149be@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261218T090000
+DTEND;TZID=America/Sao_Paulo:20261218T120000
+SUMMARY:🔷 Inteligência Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Inteligência Policial\nProfessor(es): PAULA CRISTINA NUNES DE BARROS SCARANCE FERNANDES\nLocal: SALA DE AULA\nDia da semana: SEX
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:42b86da6-8b56-462b-8e15-fa1eb77e4c9a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261218T133000
+DTEND;TZID=America/Sao_Paulo:20261218T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: ESPAÇO TÁTICO - ALA P\nDia da semana: SEX
+LOCATION:ESPAÇO TÁTICO - ALA P
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:1794fbc8-2d72-4031-89d7-eaa6110c14a6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261219T090000
+DTEND;TZID=America/Sao_Paulo:20261219T120000
+SUMMARY:🔷 Exercício de Inteligência Policial*
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Inteligência Policial*\nProfessor(es): PAULA CRISTINA NUNES DE BARROS SCARANCE FERNANDES\nLocal: SALA DE AULA\nDia da semana: SAB
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:f2d345de-58e9-4178-b2e1-545dbf496917@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261221T090000
+DTEND;TZID=America/Sao_Paulo:20261221T120000
+SUMMARY:🔷 Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gerenciamento de Crises\nProfessor(es): Antônio Carlos Heib\nDia da semana: SEG
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ea7de3-9030-4e68-babe-fefaebaa66ec@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261222T090000
+DTEND;TZID=America/Sao_Paulo:20261222T120000
+SUMMARY:🔷 Direito Administrativo Disciplinar
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direito Administrativo Disciplinar\nProfessor(es): Rosemeire Monteiro De Francisco Ibañez\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:9adc9ba5-deb1-492a-a93e-e857e1753b01@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261222T133000
+DTEND;TZID=America/Sao_Paulo:20261222T163000
+SUMMARY:🔷 Direito Administrativo Disciplinar
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direito Administrativo Disciplinar\nProfessor(es): Rosemeire Monteiro De Francisco Ibañez\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:27d1e22e-88e8-40e8-9580-41f8723c3061@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261222T165000
+DTEND;TZID=America/Sao_Paulo:20261222T195000
+SUMMARY:🔷 Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gerenciamento de Crises\nProfessor(es): Antônio Carlos Heib\nDia da semana: TER
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:b6207597-75ed-46e1-adf1-0917b2e9a386@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261223T090000
+DTEND;TZID=America/Sao_Paulo:20261223T120000
+SUMMARY:🔷 Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Gerenciamento de Crises\nProfessor(es): Antônio Carlos Heib\nDia da semana: QUA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:66660479-9e92-4b57-9088-b7f199ac45c1@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261224T090000
+DTEND;TZID=America/Sao_Paulo:20261224T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUI
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:4944ac30-e95d-43e8-b62e-837075097234@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261224T133000
+DTEND;TZID=America/Sao_Paulo:20261224T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUI
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:64b15d06-fd92-4c36-8bd4-a1512f999217@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261224T165000
+DTEND;TZID=America/Sao_Paulo:20261224T195000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUI
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:36be43bb-7239-4d8f-8954-904162b87e32@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261225T090000
+DTEND;TZID=America/Sao_Paulo:20261225T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEX
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc8e726-52e3-44a7-a4e3-ba9f391b0aa5@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261225T133000
+DTEND;TZID=America/Sao_Paulo:20261225T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEX
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:c1f5bfcc-d392-4aca-b8f6-5e746acb00ba@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261226T090000
+DTEND;TZID=America/Sao_Paulo:20261226T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:098345b4-f1d6-448f-a269-8c23be67cc4d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261226T133000
+DTEND;TZID=America/Sao_Paulo:20261226T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:9e21f4cb-23f8-44e2-943b-0284a68e6bc6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261228T090000
+DTEND;TZID=America/Sao_Paulo:20261228T120000
+SUMMARY:🔵 Papiloscopia
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Papiloscopia\nProfessor(es): Pedro Henrique Souza Maia\nLocal: SALA DE AULA\nDia da semana: SEG
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:5317f8b8-39d8-4d66-899e-8e3792e7f5fe@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261229T090000
+DTEND;TZID=America/Sao_Paulo:20261229T120000
+SUMMARY:🔵 Papiloscopia
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Papiloscopia\nProfessor(es): Pedro Henrique Souza Maia\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:e430dea0-3209-4d80-b2f5-6cd4dd0af238@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261229T133000
+DTEND;TZID=America/Sao_Paulo:20261229T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: ESPAÇO TÁTICO - ALA P\nDia da semana: TER
+LOCATION:ESPAÇO TÁTICO - ALA P
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:b437e384-0424-48fb-b9ca-b33dbefa10c9@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261229T165000
+DTEND;TZID=America/Sao_Paulo:20261229T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: SALA DE AULA\nDia da semana: TER
+LOCATION:SALA DE AULA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:5ec31594-0f01-42bd-a27b-18ebaecef7cb@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261230T090000
+DTEND;TZID=America/Sao_Paulo:20261230T120000
+SUMMARY:🔵 Papiloscopia
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Papiloscopia\nProfessor(es): Pedro Henrique Souza Maia\nLocal: LABORATÓRIO DE PAPILOSCOPIA\nDia da semana: QUA
+LOCATION:LABORATÓRIO DE PAPILOSCOPIA
+COLOR:Peacock
+X-GOOGLE-CALENDAR-CONTENT-COLOR:7
+END:VEVENT
+BEGIN:VEVENT
+UID:2152f2f0-89ef-4d7f-975e-e505b787ffcc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261231T090000
+DTEND;TZID=America/Sao_Paulo:20261231T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUI
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbc78ac-9c20-4ff8-94ec-913bf1af2d64@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261231T133000
+DTEND;TZID=America/Sao_Paulo:20261231T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUI
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:f7739546-505a-4da2-a789-ce34f1b38572@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20261231T165000
+DTEND;TZID=America/Sao_Paulo:20261231T195000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUI
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:dca21a29-2ec8-41ac-98d1-5afaf85defe6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270101T090000
+DTEND;TZID=America/Sao_Paulo:20270101T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEX
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:ee273df9-f373-4504-9804-e0086602f918@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270101T133000
+DTEND;TZID=America/Sao_Paulo:20270101T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEX
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:659b0a4f-1fd7-4565-b3a0-ffbb14e710bc@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270102T090000
+DTEND;TZID=America/Sao_Paulo:20270102T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:1ceda669-a5c8-44e7-b9e8-eb063e137976@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270102T133000
+DTEND;TZID=America/Sao_Paulo:20270102T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:41c194d0-b377-4d59-b315-73fafd052a6d@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270104T133000
+DTEND;TZID=America/Sao_Paulo:20270104T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: SEG
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:322528b1-3bca-4499-96c6-6f4a1ecd7e1a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270105T133000
+DTEND;TZID=America/Sao_Paulo:20270105T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: ESPAÇO TÁTICO - ALA P\nDia da semana: TER
+LOCATION:ESPAÇO TÁTICO - ALA P
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:2b51fedc-6483-41e6-9447-42d3bdcc5b6e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270105T165000
+DTEND;TZID=America/Sao_Paulo:20270105T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: ESPAÇO TÁTICO - ALA P\nDia da semana: TER
+LOCATION:ESPAÇO TÁTICO - ALA P
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:36eb553d-0624-44ae-a0b2-bdbdc32a17f7@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270106T133000
+DTEND;TZID=America/Sao_Paulo:20270106T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: QUA
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7d4c81-8b24-4528-b6b4-efada52de6ba@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270107T090000
+DTEND;TZID=America/Sao_Paulo:20270107T120000
+SUMMARY:🔷 CVE - Direção Defensiva
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: CVE - Direção Defensiva\nProfessor(es): João Baptista Palma Beolchi\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:0cc142a5-77ab-47ed-8a0f-d73e77fdd58f@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270111T090000
+DTEND;TZID=America/Sao_Paulo:20270111T150000
+SUMMARY:🟡 Avaliação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Avaliação\nDia da semana: SEG
+COLOR:Banana
+X-GOOGLE-CALENDAR-CONTENT-COLOR:5
+END:VEVENT
+BEGIN:VEVENT
+UID:3389ec73-a8ca-4e78-b074-54b4b2fbe785@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270112T090000
+DTEND;TZID=America/Sao_Paulo:20270112T120000
+SUMMARY:🔷 Direitos Humanos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direitos Humanos\nProfessor(es): Eduardo Augusto Paglione\nDia da semana: TER
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:4b676b43-b741-47ce-872b-7e0079f3d6e3@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270112T133000
+DTEND;TZID=America/Sao_Paulo:20270112T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: TER
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:8ae0e2b4-7743-42e4-b735-14765ae1dac7@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270112T165000
+DTEND;TZID=America/Sao_Paulo:20270112T195000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: TER
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbb1ae0-7ed9-4959-98db-3b2b07e67495@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270113T090000
+DTEND;TZID=America/Sao_Paulo:20270113T120000
+SUMMARY:🔷 Direitos Humanos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direitos Humanos\nProfessor(es): Eduardo Augusto Paglione\nDia da semana: QUA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:521063e4-0001-45b1-9e4b-dec8ff48b50e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270113T133000
+DTEND;TZID=America/Sao_Paulo:20270113T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B7\nDia da semana: QUA
+LOCATION:Sala de informática B7
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa65a9a-3054-406c-970a-cde7d218f3c5@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270114T090000
+DTEND;TZID=America/Sao_Paulo:20270114T120000
+SUMMARY:🔷 Direitos Humanos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direitos Humanos\nProfessor(es): Eduardo Augusto Paglione\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:8fcb5613-e55a-4de1-9fc1-9f4c153915a3@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270114T133000
+DTEND;TZID=America/Sao_Paulo:20270114T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: QUI
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:9eced323-6586-4443-9dc6-75683747f1cd@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270114T165000
+DTEND;TZID=America/Sao_Paulo:20270114T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: CQB - CASA DE COMBATE\nDia da semana: QUI
+LOCATION:CQB - CASA DE COMBATE
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:a3662d7c-f593-49a5-96f9-af43ee1e62e8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270118T090000
+DTEND;TZID=America/Sao_Paulo:20270118T120000
+SUMMARY:🔷 Direitos Humanos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direitos Humanos\nProfessor(es): Eduardo Augusto Paglione\nDia da semana: SEG
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:6455fb9f-2fdb-4aab-9f15-67543e9127de@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270118T133000
+DTEND;TZID=America/Sao_Paulo:20270118T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: SEG
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:294efcbb-34a4-477d-aa3e-b0e64feec4b7@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270119T090000
+DTEND;TZID=America/Sao_Paulo:20270119T120000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:c783aba3-055c-485d-b53b-d21d6a338298@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270119T133000
+DTEND;TZID=America/Sao_Paulo:20270119T163000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:fe4ce6a5-3d28-4c7a-ba1d-1c5763ec7eda@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270120T133000
+DTEND;TZID=America/Sao_Paulo:20270120T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: QUA
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:4f1ff240-d1f3-47ed-8010-a4833dfa8b36@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270121T133000
+DTEND;TZID=America/Sao_Paulo:20270121T163000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: ESTACIONAMENTO\nDia da semana: QUI
+LOCATION:ESTACIONAMENTO
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:9b6410e9-3e3b-4554-af47-e7725fdba100@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270121T165000
+DTEND;TZID=America/Sao_Paulo:20270121T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: ESTACIONAMENTO\nDia da semana: QUI
+LOCATION:ESTACIONAMENTO
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:a942a488-20bd-4f9d-ba4b-7e4b2f0d2b19@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270123T090000
+DTEND;TZID=America/Sao_Paulo:20270123T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:5c82d1ba-7cdf-4e95-9dcb-5191123136ef@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270123T133000
+DTEND;TZID=America/Sao_Paulo:20270123T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:29ee7b14-4bfb-497e-91c7-4fa6ed7416a8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270125T090000
+DTEND;TZID=America/Sao_Paulo:20270125T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEG
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec9dfe7-7714-47ed-a2ad-92b20a9fa906@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270125T133000
+DTEND;TZID=America/Sao_Paulo:20270125T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEG
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:1a410e98-b0f3-4045-b8ab-34d9d384d22f@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270126T090000
+DTEND;TZID=America/Sao_Paulo:20270126T150000
+SUMMARY:🟡 Avaliação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Avaliação\nDia da semana: TER
+COLOR:Banana
+X-GOOGLE-CALENDAR-CONTENT-COLOR:5
+END:VEVENT
+BEGIN:VEVENT
+UID:85e27d24-cce7-4d2b-b480-03bf1e31df06@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270127T090000
+DTEND;TZID=America/Sao_Paulo:20270127T120000
+SUMMARY:🔷 Feminicídio e Investigação Policial sob a Perspectiva de Gênero
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feminicídio e Investigação Policial sob a Perspectiva de Gênero\nProfessor(es): Luciana Campos Nascimento / LUIS GUILHERME MELLO DE MORAES\nLocal: SALA DE AULA\nDia da semana: QUA
+LOCATION:SALA DE AULA
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:db97870c-65bb-4490-a984-9086433baced@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270127T165000
+DTEND;TZID=America/Sao_Paulo:20270127T195000
+SUMMARY:🔴 Armamento\, Tiro e Táticas de Confronto Armado
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Armamento\, Tiro e Táticas de Confronto Armado\nProfessor(es): Nilson Shiguti e Fernando Estefan / Ricardo Fleck e Alexsander Romão\nLocal: SALA DE AULA\nDia da semana: QUA
+LOCATION:SALA DE AULA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:db36bdfe-756e-46f1-ad2f-59d691cf9f2a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270128T133000
+DTEND;TZID=America/Sao_Paulo:20270128T163000
+SUMMARY:🔷 Direitos Humanos
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Direitos Humanos\nProfessor(es): Eduardo Augusto Paglione\nDia da semana: QUI
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb968a3-6307-4fc2-8277-f2b7503f4faa@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270130T090000
+DTEND;TZID=America/Sao_Paulo:20270130T120000
+SUMMARY:🔷 Exercício de Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Gerenciamento de Crises\nProfessor(es): Dra. Aurora e Equipe de Gerenciamento de Crises\nDia da semana: SAB
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd1b40a-cea9-4f44-8349-192062f86613@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270130T133000
+DTEND;TZID=America/Sao_Paulo:20270130T163000
+SUMMARY:🔷 Exercício de Gerenciamento de Crises
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Exercício de Gerenciamento de Crises\nProfessor(es): Dra. Aurora e Equipe de Gerenciamento de Crises\nDia da semana: SAB
+COLOR:Lavender
+X-GOOGLE-CALENDAR-CONTENT-COLOR:9
+END:VEVENT
+BEGIN:VEVENT
+UID:a7f6889d-d960-425d-84cf-3e83e15f4396@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270201T090000
+DTEND;TZID=America/Sao_Paulo:20270201T150000
+SUMMARY:🟡 Avaliação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Avaliação\nDia da semana: SEG
+COLOR:Banana
+X-GOOGLE-CALENDAR-CONTENT-COLOR:5
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d6114e-01c6-4ce3-a489-2e99a40992d0@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270202T133000
+DTEND;TZID=America/Sao_Paulo:20270202T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: TER
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:5589ffd8-bb6c-4b62-8e43-f717b53e1171@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270203T133000
+DTEND;TZID=America/Sao_Paulo:20270203T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: QUA
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:ba2c5120-6024-43e0-94b4-5f89e53e34a8@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270204T133000
+DTEND;TZID=America/Sao_Paulo:20270204T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: QUI
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:a14e7b4c-1a13-43a1-aa2e-2c881c292192@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270206T133000
+DTEND;TZID=America/Sao_Paulo:20270206T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:d0268594-38d8-42c0-abff-066cf48c915a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270206T090000
+DTEND;TZID=America/Sao_Paulo:20270206T150000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SAB
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:2d200898-103d-42ab-932e-5f7802757365@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270208T090000
+DTEND;TZID=America/Sao_Paulo:20270208T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEG
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:a336e275-d99e-4b88-bd0d-08ed55bfb0e6@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270208T133000
+DTEND;TZID=America/Sao_Paulo:20270208T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: SEG
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:9f3b9c6c-3886-4fd6-bd36-a921490f9d3e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270209T090000
+DTEND;TZID=America/Sao_Paulo:20270209T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: TER
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:ccc571cf-6766-4378-a068-9e1f099b749c@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270209T133000
+DTEND;TZID=America/Sao_Paulo:20270209T163000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: TER
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:6b60eb9e-9504-4c6a-9d86-79afaa7c6f1a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270209T165000
+DTEND;TZID=America/Sao_Paulo:20270209T195000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: TER
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:9a427757-7dbd-46a4-9d99-d9a71db5138e@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270210T090000
+DTEND;TZID=America/Sao_Paulo:20270210T120000
+SUMMARY:⚫ Feriado/ Ponto Facultativo
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Feriado/ Ponto Facultativo\nDia da semana: QUA
+COLOR:Graphite
+X-GOOGLE-CALENDAR-CONTENT-COLOR:8
+END:VEVENT
+BEGIN:VEVENT
+UID:b6405783-6e16-4b7e-bb56-ee5119f01eab@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270210T133000
+DTEND;TZID=America/Sao_Paulo:20270210T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: QUA
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:870214a8-4d9c-46e6-90be-7b11028c30d5@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270215T090000
+DTEND;TZID=America/Sao_Paulo:20270215T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: SEG
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e35868-fb43-4314-b6bb-cf325a70b4d4@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270215T133000
+DTEND;TZID=America/Sao_Paulo:20270215T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: SEG
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:8f09d3ec-bb13-47bf-890a-e530cb5e36eb@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270216T090000
+DTEND;TZID=America/Sao_Paulo:20270216T120000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:6ca30564-187d-4f47-b026-374e5c92eb2f@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270216T133000
+DTEND;TZID=America/Sao_Paulo:20270216T163000
+SUMMARY:🟠 Estágio
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Estágio\nDia da semana: TER
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:57b86df3-2b56-4260-bdb8-4f0a673ca7a9@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270217T133000
+DTEND;TZID=America/Sao_Paulo:20270217T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: QUA
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:97d29060-6fbb-4adc-b853-66f0bac53f52@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270218T133000
+DTEND;TZID=America/Sao_Paulo:20270218T163000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: QUI
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:f65ef7ef-8f87-46c2-a89f-6d7afe716c9b@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270222T090000
+DTEND;TZID=America/Sao_Paulo:20270222T150000
+SUMMARY:🟡 Avaliação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Avaliação\nDia da semana: SEG
+COLOR:Banana
+X-GOOGLE-CALENDAR-CONTENT-COLOR:5
+END:VEVENT
+BEGIN:VEVENT
+UID:75763271-b4a2-4ed4-93bf-ee5517d12e9a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270223T090000
+DTEND;TZID=America/Sao_Paulo:20270223T120000
+SUMMARY:🟢 Defesa Pessoal Policial e Condicionamento Físico
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Defesa Pessoal Policial e Condicionamento Físico\nProfessor(es): Alexandre de Oliveira Pinto / Karin Dietrich Boquino\nLocal: SALA DEFESA PESSOAL\nDia da semana: TER
+LOCATION:SALA DEFESA PESSOAL
+COLOR:Sage
+X-GOOGLE-CALENDAR-CONTENT-COLOR:10
+END:VEVENT
+BEGIN:VEVENT
+UID:54917be6-9fd0-4484-a666-a03bfcc333fb@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270224T133000
+DTEND;TZID=America/Sao_Paulo:20270224T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: QUA
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:a135935c-9fd4-415f-914c-f17cee514c48@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270301T133000
+DTEND;TZID=America/Sao_Paulo:20270301T163000
+SUMMARY:🟣 Informática Policial
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Informática Policial\nProfessor(es): Luiz Fernando Zambrana Ortiz\nLocal: Sala de informática B5\nDia da semana: SEG
+LOCATION:Sala de informática B5
+COLOR:Grape
+X-GOOGLE-CALENDAR-CONTENT-COLOR:3
+END:VEVENT
+BEGIN:VEVENT
+UID:8a438d05-fcb6-4f4a-a474-9831f856a621@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270303T090000
+DTEND;TZID=America/Sao_Paulo:20270303T150000
+SUMMARY:🟡 Avaliação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Avaliação\nDia da semana: QUA
+COLOR:Banana
+X-GOOGLE-CALENDAR-CONTENT-COLOR:5
+END:VEVENT
+BEGIN:VEVENT
+UID:18b68245-5b34-4e3c-ada4-444648500dfd@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270304T090000
+DTEND;TZID=America/Sao_Paulo:20270304T150000
+SUMMARY:🟡 Avaliação
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Avaliação\nDia da semana: QUI
+COLOR:Banana
+X-GOOGLE-CALENDAR-CONTENT-COLOR:5
+END:VEVENT
+BEGIN:VEVENT
+UID:2bea5a8d-7038-461d-b9d1-5da9ba0b153a@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270305T090000
+DTEND;TZID=America/Sao_Paulo:20270305T120000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: SEX
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:57fe8686-e2bf-48c1-8140-346345377484@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270305T133000
+DTEND;TZID=America/Sao_Paulo:20270305T163000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: SEX
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:1a7957ec-8938-400c-af50-13d7e5831073@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270308T090000
+DTEND;TZID=America/Sao_Paulo:20270308T120000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: SEG
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:731b6fb4-4342-4e44-87ea-2be6455e11bf@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270308T133000
+DTEND;TZID=America/Sao_Paulo:20270308T163000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: SEG
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:5f35cf48-e3b0-4984-b52c-4a6051c9d084@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270309T090000
+DTEND;TZID=America/Sao_Paulo:20270309T120000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: TER
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:f63a5220-7a14-4903-9b22-3813c6e659df@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270309T133000
+DTEND;TZID=America/Sao_Paulo:20270309T163000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: TER
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:ff3951ad-572d-469b-bdf2-4b72fd41ef81@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270309T165000
+DTEND;TZID=America/Sao_Paulo:20270309T195000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: TER
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:5b856d09-a251-4e2d-90f5-bf07986a7223@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270310T090000
+DTEND;TZID=America/Sao_Paulo:20270310T120000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: QUA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:0cccf588-5d1d-4ebf-a2b1-c5b0d6f87443@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270310T133000
+DTEND;TZID=America/Sao_Paulo:20270310T163000
+SUMMARY:🔴 Teste de Armas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Teste de Armas\nDia da semana: QUA
+COLOR:Tomato
+X-GOOGLE-CALENDAR-CONTENT-COLOR:11
+END:VEVENT
+BEGIN:VEVENT
+UID:8140193b-1732-4922-8ab2-ebddef30c708@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270311T090000
+DTEND;TZID=America/Sao_Paulo:20270311T120000
+SUMMARY:🟠 Escolha de Vagas
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Escolha de Vagas\nDia da semana: QUI
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+BEGIN:VEVENT
+UID:35316484-602e-4ef6-b62f-e351f6e20d36@acadepol-ip-turma2
+DTSTAMP:20260927T004328Z
+DTSTART;TZID=America/Sao_Paulo:20270312T090000
+DTEND;TZID=America/Sao_Paulo:20270312T120000
+SUMMARY:🟠 Término do Curso
+DESCRIPTION:ACADEPOL - IP TURMA 2 - ANO 2026/2027\nDisciplina: Término do Curso\nDia da semana: SEX
+COLOR:Tangerine
+X-GOOGLE-CALENDAR-CONTENT-COLOR:6
+END:VEVENT
+END:VCALENDAR
